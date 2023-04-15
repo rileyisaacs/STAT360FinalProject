@@ -13,7 +13,12 @@ testfwd_stepwise (R workspace)
 testmc (R workspace)
 
 folder: R
-mars.R, anova.mars.R, plot.mars.R, predict.mars.R, print.mars.R, summary.mars.R
+mars.R
+anova.mars.R
+plot.mars.R
+predict.mars.R
+print.mars.R
+summary.mars.R
 
 folder: tests
 testthat.R 
