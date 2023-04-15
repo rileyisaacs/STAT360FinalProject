@@ -1,7 +1,8 @@
 # STAT360FinalProject
 Group members: Darcie Reiter, Riley Issacs, Carter Phillips 
 
-Files in projcet folder:
+Files in projcet folder
+
 folder: data
   - marstestdata.rda
 folder: data-raw
