@@ -5,6 +5,8 @@ Files in projcet folder
 
 folder: data
 marstestdata.rda
+laptop_price.csv
+Real estate.csv
 
 folder: data-raw
 DATASET
