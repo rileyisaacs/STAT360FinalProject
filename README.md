@@ -1,5 +1,5 @@
 # STAT360FinalProject
-Group members: Darcie Reiter, Riley Issacs, Carter Phillips 
+Group members: Darcie Reiter, Riley Isaacs, Carter Phillips 
 
 Files in projcet folder
 
