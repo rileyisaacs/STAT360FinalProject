@@ -24,6 +24,7 @@ summary.mars.R
 
 folder: tests
 testthat.R 
+test.R
 folder: testthat
   testbwd_stepwise (R workspace)
   testbwd_stepwise.R
@@ -42,8 +43,7 @@ NAMESPACE
 
 Contributions
 
-Darcie: helped set up main mars.R folder and its functions, set up all the tests in the testthat folder, completed print.mars.R, found datasetsa and completed test.R file,did part of documentation, 
-set up README.md file
+Darcie: helped set up main mars.R folder and its functions, set up all the tests in the testthat folder, completed print.mars.R, found datasetsa and completed test.R file, did part of documentation, set up README.md file
 
 Riley:
 
