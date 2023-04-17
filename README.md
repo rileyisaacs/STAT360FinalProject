@@ -78,4 +78,4 @@ Darcie: helped set up main mars.R folder and its functions, set up all the tests
 
 Riley: helped set up the main mars.R folder and its functions, set up the github, completed summary.mars, helped write documentation 
 
-Carter: wrote documentation and description
+Carter: wrote documentation and description, altered anova.mars and plot.mars, wrote README.md file
