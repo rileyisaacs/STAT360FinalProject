@@ -45,6 +45,6 @@ Contributions
 
 Darcie: helped set up main mars.R folder and its functions, set up all the tests in the testthat folder, completed print.mars.R, plot.mars.R. and anova.mars.R, found datasetsa and completed test.R file, did part of documentation, set up README.md file
 
-Riley:
+Riley:helped set up the main mars.Rfolder and its functions, set up the github, completed summary.mars, helped write documentation 
 
 Carter: 
